@@ -1,0 +1,8 @@
+= Introduction
+
+Live coding support of my `From Java 7 to Functional Programming` talk given on 2018-06-21 at Devfest Lille.
+
+== Branches
+* Branch `java7` contains the start of the talk (code to migrate to Functional programming using Java 8 + Vavr). For faster start, boilerplate like Vavr Springfox configuration is already present.
+* Branch `master` contains my Java 8 + Vavr proposal.
+* Branch `docs` contains the slides.
